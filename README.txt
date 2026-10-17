@@ -1,0 +1,1 @@
+既存ホームページのデザインを維持したAI検索・SEO向け修正版です。index.html / robots.txt / sitemap.xml をGitHub Pagesのリポジトリ直下へアップロードしてください。サイトURLが異なる場合は canonical, og:url, JSON-LD url, sitemap.xml, robots.txt のURLを実際のURLに変更してください。問い合わせは公式LINEのみ、電話番号やメールアドレスは追加していません。公開後にGoogle Search Consoleへサイトマップを登録してください。
